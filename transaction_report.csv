@@ -1,0 +1,19 @@
+Metric,Value
+Total transaction count,14
+Total volume,342500.0
+Average value,24464.29
+Most frequent type,transfer
+Fraud threshold,50000
+Fraud alert count,4
+
+Most Active Customers,Transaction Count
+Alice,4
+Bob,4
+Chidi,3
+
+Fraud Alert Transactions
+Date,Customer,Amount,Type
+2026-08-01,Bob,75000,withdrawal
+2026-08-02,Alice,60000,withdrawal
+2026-08-03,Bob,90000,withdrawal
+2026-08-04,Chidi,52000,withdrawal
